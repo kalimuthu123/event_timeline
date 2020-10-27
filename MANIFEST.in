@@ -1,0 +1,7 @@
+include event_timeline/event_timeline.min.js
+include event_timeline/event_timeline.min.js.map
+include event_timeline/metadata.json
+include event_timeline/package-info.json
+include README.md
+include LICENSE
+include package.json
